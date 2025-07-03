@@ -1,0 +1,22 @@
+name: mario_image_picker_demo
+description: "Mario Demo Image Picker App."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.1.2
+  mime: ^2.0.0
+  video_player: ^2.9.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
